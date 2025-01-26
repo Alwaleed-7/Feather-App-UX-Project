@@ -38,5 +38,4 @@ Find our project presentation here: [UX_Project_Presentation.pdf](UX_Project_Pre
 
 ---
 
-**Lab Instructors**: Dr. Amir Mohamed Talib, Dr. Shaza Abdelrahman
-
+**Course Instructors**: Dr. Amir Mohamed Talib
