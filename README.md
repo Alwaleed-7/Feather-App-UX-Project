@@ -30,7 +30,7 @@ Explore our **interactive prototype** on Figma:
 [Feather App Interactive Prototype](https://www.figma.com/proto/6kwXqucEouZmLpGk7ajcg5/Feather-App-(Copy)?node-id=2302-10&p=f&t=nHQuRxKjoBLlUbXc-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2302%3A10)
 
 ## Presentation
-Find our project presentation here: [UX_Project_Presentation.pdf](UX_Project_Presentation.pdf)
+Find our project presentation here: [UX_Project_Presentation.pdf](User%20Experience%20Design%20project.pdf)
 
 ## Tools Used
 - **Figma**: For designing and prototyping.
