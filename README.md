@@ -47,9 +47,6 @@ Explore our **interactive prototype** on Figma:
 ![Screenshot 4](https://user-images.githubusercontent.com/91476827/150794417-8ef5caf5-52a8-42f2-b92f-41d0ca236947.jpg)
 
 
-![Screenshot 5](https://user-images.githubusercontent.com/91476827/150794356-4b000978-59b3-433e-a8ac-b14f2936106a.jpg)
-
-
 ![Screenshot 6](https://user-images.githubusercontent.com/91476827/150794340-9a609456-9677-416b-b3d3-9f939fb6f665.jpg)
 
 ## Presentation
