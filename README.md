@@ -33,6 +33,7 @@ Explore our **interactive prototype** on Figma:
 Find our project presentation here: [UX_Project_Presentation.pdf](User%20Experience%20Design%20project.pdf)
 
 ## Tools Used
+- **Andrioid Studio**: For developing the mobile application, including building the interface and integrating features for publishing and sharing articles.
 - **Figma**: For designing and prototyping.
 - **PowerPoint**: For presenting the project deliverables.
 
