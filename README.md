@@ -30,7 +30,7 @@ Explore our **interactive prototype** on Figma:
 [Feather App Interactive Prototype](https://www.figma.com/proto/6kwXqucEouZmLpGk7ajcg5/Feather-App-(Copy)?node-id=2302-10&p=f&t=nHQuRxKjoBLlUbXc-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2302%3A10)
 
 
-## Interfaces App 📷
+## Interfaces App
 
 ![Feather App Logo](https://user-images.githubusercontent.com/91476827/148527193-6db4948f-8337-4888-b193-669311ad3764.png)
 
